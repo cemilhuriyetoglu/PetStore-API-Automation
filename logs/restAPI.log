@@ -1,0 +1,30 @@
+2022-06-13 03:31:46 INFO  PetStore API:26 - Add new pet to the store successful
+2022-06-13 03:31:46 INFO  PetStore API:26 - Add new pet to the store successful
+2022-06-13 03:31:46 INFO  PetStore API:26 - Add new pet to the store successful
+2022-06-13 03:31:46 INFO  PetStore API:26 - Add new pet to the store successful
+2022-06-13 03:31:49 INFO  PetStore API:61 - Delete pet with invalid pet id
+2022-06-13 03:31:49 INFO  PetStore API:50 - Add new pet to the store with invalid petId
+2022-06-13 03:31:49 INFO  PetStore API:65 - Get pet with invalid pet_id
+2022-06-13 03:31:50 INFO  PetStore API:73 - Add new pet to the store with empty body
+2022-06-13 03:37:29 INFO  PetStore API:26 - Add new pet to the store successful
+2022-06-13 03:37:36 INFO  PetStore API:50 - Add new pet to the store with invalid petId
+2022-06-13 03:37:37 INFO  PetStore API:73 - Add new pet to the store with empty body
+2022-06-13 03:37:58 INFO  PetStore API:26 - Add new pet to the store successful
+2022-06-13 03:38:02 INFO  PetStore API:48 - Delete existing pet
+2022-06-13 03:38:03 INFO  PetStore API:61 - Delete pet with invalid pet id
+2022-06-13 03:38:13 INFO  PetStore API:26 - Add new pet to the store successful
+2022-06-13 03:38:17 INFO  PetStore API:48 - Get existing pet
+2022-06-13 03:38:18 INFO  PetStore API:65 - Get pet with invalid pet_id
+2022-06-13 03:38:47 INFO  PetStore API:26 - Add new pet to the store successful
+2022-06-13 03:38:50 INFO  PetStore API:44 - Update existing pet successful
+2022-06-13 03:39:04 INFO  PetStore API:26 - Add new pet to the store successful
+2022-06-13 03:39:04 INFO  PetStore API:26 - Add new pet to the store successful
+2022-06-13 03:39:04 INFO  PetStore API:26 - Add new pet to the store successful
+2022-06-13 03:39:04 INFO  PetStore API:26 - Add new pet to the store successful
+2022-06-13 03:39:08 INFO  PetStore API:44 - Update existing pet successful
+2022-06-13 03:39:08 INFO  PetStore API:48 - Delete existing pet
+2022-06-13 03:39:08 INFO  PetStore API:48 - Get existing pet
+2022-06-13 03:39:08 INFO  PetStore API:50 - Add new pet to the store with invalid petId
+2022-06-13 03:39:08 INFO  PetStore API:61 - Delete pet with invalid pet id
+2022-06-13 03:39:08 INFO  PetStore API:73 - Add new pet to the store with empty body
+2022-06-13 03:39:08 INFO  PetStore API:65 - Get pet with invalid pet_id
